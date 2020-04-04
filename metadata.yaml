@@ -1,0 +1,26 @@
+_repo: Pig-Raising-A-Manual-for-Pig-Clubs_61711
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Greene, James Henry
+    gutenberg_agent_id: '51574'
+    url: http://www.gutenberg.org/2009/agents/51574
+  - agent_name: Nolan, Aretas Wilbur
+    birthdate: 1874
+    gutenberg_agent_id: '51573'
+    url: http://www.gutenberg.org/2009/agents/51573
+description: ''
+gutenberg_issued: '2020-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61711'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Swine'
+- !lcc 'SF'
+- GITenberg
+title: 'Pig Raising: A Manual for Pig Clubs'
+url: http://www.gutenberg.org/ebooks/61711
